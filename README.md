@@ -22,10 +22,12 @@ I am Mohammed Mustapha Atia (mustapha-quant), a Machine Learning–focused Data 
 - Soft Skills: Analytical Thinking, Decision-Making Under Uncertainty, Communication & Translation, Critical Thinking & Skepticism, Attention to Detail, Adaptability, Risk Awareness Mindset, Collaboration, Discipline & Patience, Curiosity & Continuous Learning
 
 ---
-## 📊 Featured Projects
+## 📊 Projects
 
 [Fraud Detection](https://github.com/mustapha-quant/fraud-detection)
+
 Fraud detection in machine learning is the identification of anomalous transactions using supervised and unsupervised models. It addresses severe class imbalance and concept drift using algorithms like XGBoost, Random Forest, and Isolation Forest. Performance is evaluated using Precision, Recall, F1-score, and ROC-AUC, with emphasis on recall to reduce false negatives.
+
 
 ---
 ## Education
