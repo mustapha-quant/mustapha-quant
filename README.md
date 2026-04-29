@@ -23,8 +23,9 @@ I am Mohammed Mustapha Atia (mustapha-quant), a Machine Learning–focused Data 
 
 ---
 ## 📊 Featured Projects
-- Project 1 (link)
-- Project 2 (link)
+
+[Fraud Detection](https://github.com/mustapha-quant/fraud-detection)
+
 
 ---
 ## Education
@@ -41,3 +42,10 @@ I am Mohammed Mustapha Atia (mustapha-quant), a Machine Learning–focused Data 
 - [Email Me](mohammedmustaphaatia@gmail.com)
 - [LinkedIn](www.linkedin.com/in/mohammed-mustapha)
 - [WhatsApp](+233544217009)
+
+---
+## Philosophy
+Build systems that turn data into decisions.
+
+---
+| Thanks for visiting my Profile! Feel free to connect or check back as I add more projects
