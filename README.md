@@ -38,5 +38,5 @@ I am Mohammed Mustapha Atia (mustapha-quant), a Machine Learning–focused Data 
 
 ---
 ## 📫 Contact
-- www.linkedin/in/mohammed-mustapha
+- [LinkedIn](mailto:mohammedmustaphaatia@gmail.com)
 - mohammedmustaphaatia@gmail.com
