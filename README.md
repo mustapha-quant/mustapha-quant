@@ -1,8 +1,7 @@
----
 # About Me
 ---
 I am Mohammed Mustapha Atia (mustapha-quant), a Machine Learning–focused Data Scientist in finance, specializing in trading, quantitative risk modeling, and predictive analytics. I build and deploy ML-driven systems for time series forecasting, alpha generation, and risk optimization, turning noisy financial data into statistically robust, actionable signals. My work emphasizes backtesting, model validation, and real-market performance. Skilled in Python, SQL, Scikit-learn, TensorFlow, and Apache Spark, I develop end-to-end pipelines and dashboards that support data-driven trading and portfolio decisions.
----
+
 ## 🚀 What Drives Me
 ---
 - Extracting actionable signal from noisy financial market data
