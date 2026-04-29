@@ -24,7 +24,7 @@ I am Mohammed Mustapha Atia (mustapha-quant), a Machine Learning–focused Data 
 ---
 ## 📊 Featured Projects
 
-##[Fraud Detection](https://github.com/mustapha-quant/fraud-detection)
+[##Fraud Detection](https://github.com/mustapha-quant/fraud-detection)
    Fraud Detection in machine learning focuses on identifying anomalous or malicious transactions using statistical and predictive modeling techniques. It commonly employs supervised models (e.g., Logistic Regression, Random Forest, XGBoost) and anomaly detection methods (e.g., Isolation Forest, Autoencoders) to handle limited or imbalanced fraud labels. Key challenges include severe class imbalance, concept drift, and optimizing the trade-off between precision and recall, with emphasis typically on recall to minimize undetected fraud. Performance evaluation relies on metrics such as ROC-AUC, Precision-Recall AUC, and F1-score rather than accuracy.
 
 
